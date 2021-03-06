@@ -4,9 +4,9 @@ Nesse curso vamos aprender a criar uma aplicação Spring MVC para gestão de Or
 
 ## Ferramentas utilizadas
 
-[Spring Tools Suite 4](https://spring.io/tools)
+* [Spring Tools Suite 4](https://spring.io/tools)
 
-[Maven](https://maven.apache.org/download.cgi)
+* [Maven](https://maven.apache.org/download.cgi)
 
 ## Dependências
 
